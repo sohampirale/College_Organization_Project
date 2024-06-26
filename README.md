@@ -16,7 +16,7 @@ Inputs taken from Organization are as follows :
     b)  No of subjects being taught by each teacher
     c)  Subject names
     d)  No of divisions under every teacher
-    e)  Div names
+    e)  Div names<br>
 5.No of students in n divisions<br>
   a)No of students from each division studying every topic that organization offers
 <br>
