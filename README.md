@@ -1,5 +1,5 @@
 # OOP-Project
-In this project the program takes various inputs about an oragnization and gives us breif overview :
+In this project the program takes various inputs about an oragnization and gives us breif overview :<br>
 Main purpose of devloping this project was to implement O.O.P. in real life scenarios while handling "complex" data.
 
 INPUT :
