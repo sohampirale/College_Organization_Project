@@ -5,22 +5,24 @@ Main purpose of devloping this project was to implement O.O.P. in real life scen
 INPUT :
 
 Inputs taken from Organization are as follows :
+<br>
 1.No. of subjects being taught
-2.No of divisions
-3.No of tecahers
-4.Information of each teacher:
-    such as :
+<br>
+2.No of divisions<br>
+3.No of tecahers<br>
+4.Information of each teacher:<br>
+    such as :<br>
     a)  Name
     b)  No of subjects being taught by each teacher
     c)  Subject names
     d)  No of divisions under every teacher
     e)  Div names
-5.No of students in n divisions
+5.No of students in n divisions<br>
   a)No of students from each division studying every topic that organization offers
-
+<br>
   OUTPUT :
-
-1. No of teachers in the organization &
-    a) No. of students being taught by per teacher in every division (considering their subjects)
-
+<br>
+1. No of teachers in the organization &<br>
+    a) No. of students being taught by per teacher in every division (considering their subjects)<br>
+<br>
   # Thank you
